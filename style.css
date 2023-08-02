@@ -1,0 +1,35 @@
+html{
+    background-color: peachpuff;
+}
+h1{
+    background-color: white;
+    text-align: center;
+    font: bolder;
+    font-family:cursive;
+}
+h2{
+    background-color: white;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+}
+td{
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: darkgray;
+}
+li
+{
+    font-family:cursive;
+    text-align: left;
+    background-color:white;
+}
+footer{
+    text-align: center;
+    font-family: cursive;
+    background-color: darkgray;
+}
